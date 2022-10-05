@@ -1,1 +1,3 @@
-where am I task
+#!/bin/bash
+pwd
+
